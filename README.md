@@ -33,8 +33,15 @@ Klónozd le a repo-t a gépedre a saját Git klienseddel vagy ezzel a paranccsal
 - [Hallgatói portál](`Egyetem hallgatói portáljának linkje ide ha van`)
 - [Egyetem Moodle](`Egyetem Moodle linkje ha van`)
   - [Kari Moodle](`Saját karod Moodle linkje ha van`)
-- [Neptun sw1](`1. Neptun szerver linkje ide`)
-  - [sw2](`2. Neptun szerver linkje ide`)
-  - [sw3](`3. Neptun szerver linkje ide`)
+- [Neptun s1](`1. Neptun szerver linkje ide`)
+  - [s2](`2. Neptun szerver linkje ide`)
+  - [s3](`3. Neptun szerver linkje ide`)
 
-## Tippek
+## Fontos linkek - példa
+
+- [Hallgatói portál](https://hallgatok.uni-pannon.hu/)
+- [Egyetem Moodle](https://moodle.uni-pannon.hu/)
+  - [MIK Moodle](https://oktatas.mik.uni-pannon.hu/)
+- [Neptun s1](https://neptun-ws01.uni-pannon.hu/hallgato/login.aspx)
+  - [s2](https://neptun-ws02.uni-pannon.hu/hallgato/login.aspx)
+  - [s3](https://neptun-ws03.uni-pannon.hu/hallgato/login.aspx)
