@@ -4,7 +4,7 @@
 
 Ez a repo egy alapot ad az egyetemi infók, jegyzetek és egyéb fájlok tárolásához. Illetve kis segítséget és eszközöket ad az egyetemi élethez.
 
-Az egyik kedvenc eszközöm a programozós és matekos tárgyakhoz a Jupyter jegyzetfüzetek. Ezek olyan szöveg fájlok, amikbe rakhatunk formázható szöveget és futtatható kódot. Szóval jegyzetelhetünk szöveggel és rakhatunk bele logikát, számolásokat, függvényeket és ott helyben futtathatjuk is ezeket. Hasznos adatstruktúrák és algoritmusokhoz, halmazelmélethez, valószínűség számításhoz és még sok hasonló témához.
+Az egyik kedvenc eszközöm a programozós és matekos tárgyakhoz a Jupyter jegyzetfüzet. Ezek olyan szöveg fájlok, amikbe rakhatunk formázható szöveget és futtatható kódot. Szóval jegyzetelhetünk szöveggel és rakhatunk bele logikát, számolásokat, függvényeket és ott helyben futtathatjuk is ezeket. Hasznos adatstruktúrák és algoritmusokhoz, halmazelmélethez, valószínűség számításhoz és még sok hasonló témához.
 
 ### 1. Ajánlott programok és bővítmények
 
@@ -37,7 +37,7 @@ Klónozd le a repo-t a gépedre a saját Git klienseddel vagy ezzel a paranccsal
   - [s2](`2. Neptun szerver linkje ide`)
   - [s3](`3. Neptun szerver linkje ide`)
 
-## Fontos linkek - példa
+## Fontos linkek - példa (Pannon Egyetem alapján)
 
 - [Hallgatói portál](https://hallgatok.uni-pannon.hu/)
 - [Egyetem Moodle](https://moodle.uni-pannon.hu/)
